@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Environment Memory",
+    "description": "Keeps one authoritative record of this machine's dsh, toolchain and system facts, publishes it to every session's system prompt, and records environment changes on demand."
+  }
+}

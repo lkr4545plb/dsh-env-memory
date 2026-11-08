@@ -1,0 +1,8 @@
+- insert:
+    - id: env-memory
+      name: 'dsh-env-memory'
+      config:
+        enabled: true
+        snapshotMaxChars: 1100
+        changelogLimit: 200
+        probeOnStartup: true
